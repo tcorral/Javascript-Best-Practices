@@ -1,0 +1,1 @@
+Cache globals or primitives used more than twice.

@@ -1,0 +1,2 @@
+Only private variables are minimized.
+Primitives can't be shorten.
