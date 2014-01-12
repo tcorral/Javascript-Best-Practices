@@ -1,0 +1,5 @@
+Primitives are passed by copy
+Complex Object are passed by reference.
+
+
+https://github.com/tcorral/Javascript-Challenges/tree/master/Closures%20and%20Objects

@@ -1,0 +1,12 @@
+Use the next recomendations:
+
+Ex. jquery-1.10.2.min.js
+
+* All the names in lowercase.
+* The file name splitted in parts:
+    1. Name of the object
+    2. Dash
+    3. Version number
+    4. If the version of the file has been minimized add 'min'
+    5. JS extension.
+

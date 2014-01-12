@@ -1,0 +1,6 @@
+1.2.3 (11BCF) <- Build number, should correspond with a revision in source control
+^ ^ ^
+| | |
+| | +--- Minor bugs, spelling mistakes, etc.
+| +----- Minor features, major bug fixes, etc.
++------- Major version, UX changes, file format changes, etc.

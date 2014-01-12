@@ -1,0 +1,3 @@
+One file per Object/Class/Plugin...
+Organize your files per functionality.
+Use modules.    https://github.com/tcorral/Hydra.js

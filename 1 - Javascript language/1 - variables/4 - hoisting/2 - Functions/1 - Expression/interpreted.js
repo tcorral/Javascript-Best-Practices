@@ -3,6 +3,6 @@ var logName;
 
 logName();
 
-logName = function(){
-  console.log( sName );
+logName = function () {
+    console.log(sName);
 };

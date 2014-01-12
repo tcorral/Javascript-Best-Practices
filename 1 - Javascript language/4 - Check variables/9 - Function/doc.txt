@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/12933625/typeof-in-ie-8-for-native-functions

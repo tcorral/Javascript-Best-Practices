@@ -1,0 +1,3 @@
+Javascript is case sensitive.
+
+Rose !== rose.

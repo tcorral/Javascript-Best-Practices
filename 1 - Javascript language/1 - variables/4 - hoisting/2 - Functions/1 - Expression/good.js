@@ -1,6 +1,6 @@
 var sName = 'John';
 var logName = function () {
-  console.log( sName );
+    console.log(sName);
 };
 
 logName();

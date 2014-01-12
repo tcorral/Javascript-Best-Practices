@@ -8,8 +8,8 @@ var g = new Date();
 var h = new RegExp(/\\/, '\\\\');
 var i = document.getElementById('item1');
 var j = $('#item1');
-var k = function ( a ) {
-  return a * a;
+var k = function (a) {
+    return a * a;
 };
 var l = 0.21;
 var m = new Error('Message is empty!');
