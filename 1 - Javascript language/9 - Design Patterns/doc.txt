@@ -1,0 +1,1 @@
+http://tcorral.github.io/Design-Patterns-in-Javascript/
