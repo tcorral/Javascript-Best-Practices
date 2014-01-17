@@ -1,7 +1,7 @@
 function logFullName() {
     'use strict';
-    var sName = 'John';
-    var sSurname = 'Doe'; // Sets a global value.
+    var sName = 'John',
+        sSurname = 'Doe'; // Sets a global value.
 
     console.log(sName + ' ' + sSurname);
 }
