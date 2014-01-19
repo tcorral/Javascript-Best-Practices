@@ -1,0 +1,4 @@
+http://jsperf.com/regexpvsstrvsnewregexp/5
+http://jsperf.com/pre-compiled-regexp-besides-not-pre-compiled
+http://jsperf.com/regexpvsstrvsnewregexp/5
+http://jsperf.com/replacewithreorstring/2

@@ -1,0 +1,5 @@
+http://jsperf.com/primitive-vs-object-vs-object-instance/2
+http://jsperf.com/string-reversevsstring-array-reverse/3
+http://jsperf.com/replacewithreorstring/2
+http://jsperf.com/string-length-primitives-wrapper-instance
+http://jsperf.com/indexofnativevsimplementation

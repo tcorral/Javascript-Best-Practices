@@ -1,0 +1,3 @@
+http://taligarsiel.com/Projects/howbrowserswork1.htm
+
+Browsers have two different engines, render and Javascript.

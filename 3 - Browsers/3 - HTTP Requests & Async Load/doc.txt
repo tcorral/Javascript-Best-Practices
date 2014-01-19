@@ -1,0 +1,6 @@
+The browsers can hold a number of http requests at the same time then the other http requests are queued.
+You must balance your number of http requests.
+Create a package with all the common Javascript and a single javascript file per page.
+If you are using a single page application use async load of files.
+Use something as require.js or $LABjs
+Defer the load of the javascript files to actions of the user (social media)

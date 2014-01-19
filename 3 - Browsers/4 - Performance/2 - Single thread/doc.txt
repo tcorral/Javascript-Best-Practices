@@ -1,0 +1,9 @@
+https://gist.github.com/learning/2934513
+
+01_appendOnEachIteration.js 			-> 12111.99999999917
+02_appendOnEachIterationNoDisplay.js 	-> 11927.999999999884
+03_appendOnEachIterationHidden.js		-> 11841.999999998734
+04_appendOnMemory.js					-> 11902.000000000044
+05_documentFragment.js					-> 11637.99999999901
+06_templates.js							-> 10417.00000000128
+07_timedprocessarray.js					-> 21738.999999999578

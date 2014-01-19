@@ -1,0 +1,13 @@
+http://jsperf.com/tags-before-classes
+http://jsperf.com/getvsmakearray
+http://jsperf.com/find-vs-find-and-filter/4
+
+NULL
+Element
+//querySelector && querySelectorAll
+Sizzle
+    ID
+    Class
+    Tagname
+    ...
+Use filter instead of using

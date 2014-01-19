@@ -1,0 +1,3 @@
+http://requirejs.org/
+https://github.com/tcorral/Sample_Hydra_RequireJS_Browser
+https://github.com/tcorral/Hydra_with_requireJS

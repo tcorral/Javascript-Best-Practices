@@ -1,0 +1,3 @@
+Avoid to use anonymous function.
+Give name to all your functions.
+Use Developer tools.

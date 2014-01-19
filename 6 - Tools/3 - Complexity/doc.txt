@@ -1,0 +1,4 @@
+https://github.com/es-analysis/plato
+http://www.jshint.com/
+http://jscomplexity.org/
+http://ariya.ofilabs.com/2013/01/javascript-code-complexity-visualization.html

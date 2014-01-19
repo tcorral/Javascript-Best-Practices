@@ -1,0 +1,9 @@
+See the code of the plugin before apply it in your project.
+    https://github.com/mattdiamond/fuckitjs/blob/master/fuckit.js
+http://learn.jquery.com/plugins/
+http://remysharp.com/2010/06/03/signs-of-a-poorly-written-jquery-plugin/
+
+If you want to write a plugin is better to write it as a Javascript Object/Class
+and then adapt it to be a plugin. -> https://github.com/tcorral/events_manager/blob/master/src/jquery.eventsManager.js
+
+How is it this plugin? https://github.com/tuupola/jquery_jeditable/blob/master/js/jquery.jeditable.js

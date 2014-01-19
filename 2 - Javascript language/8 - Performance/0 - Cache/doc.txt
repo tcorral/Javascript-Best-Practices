@@ -1,0 +1,4 @@
+http://jsperf.com/jquery-cached-domcache/2
+http://jsperf.com/normaljqueryvslocaljquery
+http://jsperf.com/primitive-vs-object-vs-object-instance/2
+http://jsperf.com/cache-functions

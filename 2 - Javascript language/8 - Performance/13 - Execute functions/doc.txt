@@ -1,0 +1,2 @@
+http://jsperf.com/fncallvsfn/2
+http://jsperf.com/native-bindvsspecial-bind

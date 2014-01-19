@@ -1,0 +1,13 @@
+http://developer.yahoo.com/yslow/
+
+No Javascript inline
+    Javascript stops the load of the page until the JS file is evaluated and
+    executed if needed.
+    Ex. document.write/document.writeln...
+CSS Before Javascript files in HEAD
+Put your javascript in external files.
+Javascript files must be added before close the body element to improve the
+render time sensation for the user.
+Use document ready instead of window.onload.
+Don't create HTML in JS ->  Use templates systems.
+Don't change CSS in JS  ->  Change class instead

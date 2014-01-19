@@ -1,0 +1,6 @@
+http://jsperf.com/greater-than-zero-vs-not-zero/3
+http://jsperf.com/undefined-vs-double-pipe
+http://jsperf.com/set-default-values
+http://jsperf.com/sometestsbooleanchecks
+http://jsperf.com/vsnot
+http://jsperf.com/vsnot/2

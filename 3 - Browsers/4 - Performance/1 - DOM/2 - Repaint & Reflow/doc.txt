@@ -1,0 +1,2 @@
+http://jsperf.com/create100div
+https://developers.google.com/speed/articles/reflow

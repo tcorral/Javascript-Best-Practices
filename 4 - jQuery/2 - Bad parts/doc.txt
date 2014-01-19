@@ -1,0 +1,3 @@
+Each -> http://jsperf.com/jquery-grep-vs-for-loop/3
+events -> use on/off
+Use remove when you want to remove an element.

@@ -1,1 +1,10 @@
 http://tcorral.github.io/Design-Patterns-in-Javascript/
+Nullify:
+    http://jsperf.com/check-nullify-pattern/2
+Lazy:
+    http://jsperf.com/prototypevsinstancejsbp
+    http://jsperf.com/regexpvsstrvsnewregexp/5
+Prototype vs Instance:
+    http://jsperf.com/prototypevsinstance-jsbp
+Chaining:
+    http://jsperf.com/notchainablevschainable

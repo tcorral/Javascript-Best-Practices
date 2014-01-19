@@ -1,0 +1,2 @@
+http://jsperf.com/insertbeforevsappendchild/5
+http://jsperf.com/create100div/2

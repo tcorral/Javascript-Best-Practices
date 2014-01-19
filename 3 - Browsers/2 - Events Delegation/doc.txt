@@ -1,0 +1,7 @@
+http://jsperf.com/delegatevsjquerydelegate
+https://github.com/tcorral/Hydra_Extensions/tree/master/Delegate
+Less events less memory consumption.
+When you add an event to an element you must remove the event before remove the
+element from DOM or you will get a, potential, memory leak.
+If you delegate events to document you can remove elements without memory leaks issues.
+If you delegate events you can add elements that will work just being added.

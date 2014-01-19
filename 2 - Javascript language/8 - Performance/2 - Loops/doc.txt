@@ -1,0 +1,3 @@
+http://jsperf.com/loopsdiff/2
+http://jsperf.com/loopsdiffaccessdomtransformetoarray/9
+http://jsperf.com/loopsdiffcalculatesin

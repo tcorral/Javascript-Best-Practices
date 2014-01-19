@@ -1,0 +1,5 @@
+http://jsperf.com/children-0-vs-firstchild/4
+http://jsperf.com/loopsdiffaccessdom
+http://jsperf.com/queryselector-vs-queryselectorall-get0
+http://jsperf.com/byidvsgetelementbyid
+http://jsperf.com/tagname-vs-direct
