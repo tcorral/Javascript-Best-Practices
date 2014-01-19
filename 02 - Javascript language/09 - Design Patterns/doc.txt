@@ -1,4 +1,8 @@
 http://tcorral.github.io/Design-Patterns-in-Javascript/
+http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+http://shop.oreilly.com/product/9780596806767.do
+http://www.jspatterns.com/
+
 Nullify:
     http://jsperf.com/check-nullify-pattern/2
 Lazy:

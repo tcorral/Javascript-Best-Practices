@@ -1,5 +1,6 @@
 http://developer.yahoo.com/yslow/
 
+See single thread section in performance.
 No Javascript inline
     Javascript stops the load of the page until the JS file is evaluated and
     executed if needed.

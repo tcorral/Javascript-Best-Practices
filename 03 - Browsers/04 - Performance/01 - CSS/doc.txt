@@ -1,0 +1,3 @@
+Never change CSS styles instead change, add or remove classes.
+
+Reflow & repaint.

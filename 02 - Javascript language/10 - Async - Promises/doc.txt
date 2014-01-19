@@ -1,0 +1,4 @@
+http://pragprog.com/book/tbajs/async-javascript
+https://github.com/kriskowal/q
+http://api.jquery.com/category/deferred-object/
+https://github.com/tcorral/Hydra_Extensions/tree/master/Deferred

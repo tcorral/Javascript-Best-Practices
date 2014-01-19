@@ -1,0 +1,10 @@
+1.10.2
+    Uncompressed    -   282987 bytes
+    Compressed      -   105386 bytes
+    Gzipped and C.  -   36509 bytes
+
+
+2.0.3
+    Uncompressed    -   250970 bytes
+    Compressed      -   129790 bytes
+    Gzipped and C.  -   37012 bytes
