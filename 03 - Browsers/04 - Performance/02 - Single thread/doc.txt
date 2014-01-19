@@ -7,3 +7,7 @@ https://gist.github.com/learning/2934513
 05_documentFragment.js					-> 11637.99999999901
 06_templates.js							-> 10417.00000000128
 07_timedprocessarray.js					-> 21738.999999999578
+
+
+http://ejohn.org/blog/how-javascript-timers-work/
+Take care when using setInterval, you can loose executions.
